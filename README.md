@@ -22,3 +22,7 @@ The main objective is to survive for 20 seconds while avoiding the enemies that 
 
 Use the following control to move the character:
 Left mouse button	aakes the character jump
+
+
+Link da Build jogável:
+https://play.unity.com/en/games/d597fcf5-3978-436f-aefb-1e719dbfca2c/felpudo-race
